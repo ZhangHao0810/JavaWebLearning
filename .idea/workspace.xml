@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ServletContextDemo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ecb0f8c-a1ca-4d00-8e1c-4bc24707a925" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/img12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/乱码问题.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/img/乱码问题2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/src/CountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/src/DownLoadDemo/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/src/HttpServletRequestDemo/Request01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/src/HttpServletRequestDemo/Request02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/src/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/src/ResponseDemo/Response01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/web/File/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/web/img/hcc.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/web/img/mm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletContextDemo/web/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletRegister/ServletRegister.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServletRegister/src/Servlet/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/WEB-INF/classes/zhang/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/WEB-INF/classes/zhang/HelloServlet03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/WEB-INF/classes/zhang/HelloServlet04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/WEB-INF/classes/zhang/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/WEB-INF/classes/zhang/HelloServletConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/WEB-INF/classes/zhang/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/WEB-INF/classes/zhang/HelloServlet03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/WEB-INF/classes/zhang/HelloServlet04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/WEB-INF/classes/zhang/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/WEB-INF/classes/zhang/HelloServletConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloServlet_war_exploded2/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletConfig01_war_exploded/WEB-INF/classes/zhang/ServletConfigDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletConfig01_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletConfig01_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/File/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/CountServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/DownLoadDemo/Servlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/HttpServletRequestDemo/Request01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/HttpServletRequestDemo/Request02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/ResponseDemo/Response01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/ServletContext01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/classes/ServletgetProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/img/hcc.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/img/mm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletContextDemo_war_exploded/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletRegister_war_exploded/WEB-INF/classes/Servlet/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletRegister_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServletRegister_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloServlet/zhang/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloServlet/zhang/HelloServlet03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloServlet/zhang/HelloServlet04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloServlet/zhang/HelloServlet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloServlet/zhang/HelloServletConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletConfig01/zhang/ServletConfigDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/CountServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/DownLoadDemo/Servlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/HttpServletRequestDemo/Request01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/HttpServletRequestDemo/Request02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/ResponseDemo/Response01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/ServletContext01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletContextDemo/ServletgetProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ServletRegister/Servlet/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletContextDemo/ServletContext和Request和Response.md" beforeDir="false" afterPath="$PROJECT_DIR$/ServletContextDemo/ServletContext和Request和Response.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletContextDemo/src/ServletContext01.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServletContextDemo/src/ServletContext01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletContextDemo/src/ServletgetProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServletContextDemo/src/ServletgetProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletContextDemo/web/File/Config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletContextDemo/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ServletContextDemo/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/parse_type.png" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaWeb基础" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Servlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/DownLoadDemo/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\DATA\IDEA DATA\JavaWeb基础</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HelloServlet/web/index.html" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/Servlet/HelloServlet.java" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/Servlet/HelloServlet2.java" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/Servlet/HelloServlet03.java" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/Servlet/HelloServlet04.java" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/servlet/HelloServlet04.java" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/servlet/HelloServletConfig.java" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/zhang/HelloServlet04.java" />
+        <option value="$PROJECT_DIR$/HelloServlet/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/HelloServlet/src/zhang/HelloServletConfig.java" />
+        <option value="$PROJECT_DIR$/ServletConfig01/src/zhang/ServletConfigDemo.java" />
+        <option value="$PROJECT_DIR$/ServletConfig01/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ServletConfig01/web/index.jsp" />
+        <option value="$PROJECT_DIR$/ServletRegister/src/Servlet/Demo.java" />
+        <option value="$PROJECT_DIR$/ServletRegister/web/WEB-INF/web.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/web/File/Config.properties" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/config.properties" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/ServletgetProperties.java" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/web/success.html" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/CountServlet.java" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/web/login_success.html" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/ServletContext和Request和Response.md" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/ServletContext01.java" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/HttpServletRequestDemo/Request01.java" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/web/login.html" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/HttpServletRequestDemo/Request02.java" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/ResponseDemo/Response01.java" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/web/index.jsp" />
+        <option value="$PROJECT_DIR$/ServletContextDemo/src/DownLoadDemo/Servlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="74" />
+    <option name="width" value="923" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaWeb基础" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloServlet" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaWeb基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServletContextDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServletContextDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServletContextDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DownLoadDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServletContextDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServletContextDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServletContextDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Production">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ServletContextDemo" type="cbb8eebc:String" user="ServletContextDemo" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ServletContextDemo" type="cbb8eebc:String" user="ServletContextDemo" />
+              <item name="ServletContextDemo" type="cbb8eebc:String" user="ServletContextDemo" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ServletContextDemo" type="cbb8eebc:String" user="ServletContextDemo" />
+              <item name="ServletContextDemo" type="cbb8eebc:String" user="ServletContextDemo" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/apache-tomcat-7.0.92-win64/lib/jsp-api.jar!/javax/servlet" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DATA\IDEA DATA\JavaWeb基础\ServletContextDemo\web\img" />
+      <recent name="D:\DATA\IDEA DATA\JavaWeb基础\ServletContextDemo\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DATA\IDEA DATA\JavaWeb基础\ServletContextDemo\web\img" />
+      <recent name="D:\DATA\IDEA DATA\JavaWeb基础\ServletContextDemo\web\File" />
+      <recent name="D:\DATA\IDEA DATA\JavaWeb基础\ServletContextDemo" />
+      <recent name="D:\DATA\IDEA DATA\JavaWeb基础\HelloServlet" />
+      <recent name="D:\DATA\IDEA DATA\JavaWeb基础\ServletConfig01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 7.0.92" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ServletContextDemo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb基础" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3874" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ServletContextDemo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.921" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaWeb基础" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3874" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="d9c71357-3c94-436b-8996-dc02a274aee8" />
+                    <id>d9c71357-3c94-436b-8996-dc02a274aee8</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="d9c71357-3c94-436b-8996-dc02a274aee8" />
+                    <id>d9c71357-3c94-436b-8996-dc02a274aee8</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="d67234d2-593f-48e4-97e2-8c8da5bdf643" />
+                    <id>d67234d2-593f-48e4-97e2-8c8da5bdf643</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="d67234d2-593f-48e4-97e2-8c8da5bdf643" />
+                    <id>d67234d2-593f-48e4-97e2-8c8da5bdf643</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3877" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ecb0f8c-a1ca-4d00-8e1c-4bc24707a925" name="Default" comment="" />
+      <created>1571380191463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571380191463</updated>
+      <workItem from="1571380193152" duration="1337000" />
+      <workItem from="1571381566661" duration="1514000" />
+      <workItem from="1571383764254" duration="2953000" />
+      <workItem from="1571386864221" duration="428000" />
+      <workItem from="1571388172825" duration="8051000" />
+      <workItem from="1571407470262" duration="1118000" />
+      <workItem from="1571484736703" duration="61000" />
+      <workItem from="1571484829803" duration="6203000" />
+      <workItem from="1571529843776" duration="1165000" />
+      <workItem from="1571562194929" duration="232000" />
+      <workItem from="1571792465994" duration="7257000" />
+      <workItem from="1571811092890" duration="1047000" />
+      <workItem from="1571812202686" duration="10901000" />
+      <workItem from="1571827507480" duration="1953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44266000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="74" y="0" width="923" height="1080" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.18930636" side_tool="true" visible="true" weight="0.23349057" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.87789017" weight="0.29955456" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32947975" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" weight="0.32947975" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Statistic" order="9" weight="0.32628062" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" sideWeight="0.32033426" side_tool="true" weight="0.45592487" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3286908" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32850778" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.4568245" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" auto_hide="true" x="43" y="353" width="1384" height="491" id="Run" order="14" sideWeight="0.8106936" weight="0.24044944" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32729805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8514151" visible="true" weight="0.6042403" />
+      <window_info id="Web" order="6" sideWeight="0.1485849" side_tool="true" weight="0.33804476" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="7" sideWeight="0.5285481" side_tool="true" weight="0.23627168" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="434" height="898" id="Documentation" order="10" sideWeight="0.5013928" side_tool="true" weight="0.44364163" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="1" sideWeight="0.49860725" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <MESSAGE value="结束ServletContext和RequestResponse的学习." />
+    <MESSAGE value="Response,Request,ServletContext" />
+    <option name="LAST_COMMIT_MESSAGE" value="Response,Request,ServletContext" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HelloServlet/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/src/Servlet.java" />
+    <entry file="file://$PROJECT_DIR$/HelloServlet/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/HelloServlet/HelloServlet.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/javax.servlet.Servlet">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>javax.servlet.Servlet</OriginalElement>
+          <nodes>
+            <node x="" y="">javax.servlet.Servlet</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="56.0" y="18.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-tomcat-7.0.92-win64/lib/servlet-api.jar!/javax/servlet/ServletConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-tomcat-7.0.92-win64/lib/jsp-api.jar!/javax/servlet/jsp/JspPage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-tomcat-7.0.92-win64/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-common_4_0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="750" column="6" selection-start-line="750" selection-start-column="6" selection-end-line="750" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-tomcat-7.0.92-win64/lib/servlet-api.jar!/javax/servlet/Servlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/HelloServlet/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWeb基础.iml" />
+    <entry file="file://$PROJECT_DIR$/HelloServlet/src/zhang/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/src/zhang/HelloServlet03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletConfig01/ServletConfig01.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/src/zhang/HelloServlet2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/src/zhang/HelloServlet04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/src/zhang/HelloServletConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletConfig01/src/zhang/ServletConfigDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" column="62" lean-forward="true" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletConfig01/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletConfig01/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletConfig01/HTTP和Servlet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="227" column="22" lean-forward="true" selection-start-line="227" selection-start-column="22" selection-end-line="227" selection-end-column="22" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/img/parse_type.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/img/document.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloServlet/XML和Tomcat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-8880">
+            <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/ServletContext02.java" />
+    <entry file="file://$PROJECT_DIR$/ServletRegister/src/Servlet/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/File">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletRegister/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/File/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/File/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/ServletContext和Request和Response.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="361">
+            <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-tomcat-7.0.92-win64/lib/servlet-api.jar!/javax/servlet/ServletContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/ServletContext01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/HttpServletRequestDemo/Request01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/login_success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/CountServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/ServletgetProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/HttpServletRequestDemo/Request02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/ResponseDemo/Response01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/img/mm.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/img/mm.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/ServletContextDemo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/web/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/DownLoadDemo/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ServletConfig01:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ServletContextDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

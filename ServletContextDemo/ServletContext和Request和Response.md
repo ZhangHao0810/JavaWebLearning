@@ -1,7 +1,7 @@
-##HttpServletRequest  和 HttpServletResponse
+## HttpServletRequest 和 HttpServletResponse
 
 
-###Servlet配置方式
+### Servlet配置方式
 
 * 1. 全路径匹配
 
@@ -22,13 +22,13 @@
 > 写法： 没有/  以 * 开始   *.扩展名    *.aa *.bb 
 
 
-###ServletContext
+### ServletContext
 
 > Servlet 上下文
 
 > 每个web工程都只有一个ServletContext对象。 说白了也就是不管在哪个servlet里面，获取到的这个类的对象都是同一个。
 
-###如何得到对象
+### 如何得到对象
 
 	//1. 获取对象
 		ServletContext context = getServletContext();
@@ -39,7 +39,7 @@
 2. 获取web工程中的资源
 3. 存取数据，servlet间共享数据  域对象
 
-####.可以获取全局配置参数
+#### 可以获取全局配置参数
 
 ![icon](img/img01.png)
 
@@ -50,7 +50,7 @@
 ![icon](img/img02.png)
 
 
-####. 可以获取Web应用中的资源
+#### 可以获取Web应用中的资源
 
 	1. 获取资源在tomcat里面的绝对路径
 
@@ -94,12 +94,12 @@
 
 ![icon](img/img08.png)
 
-###ServletContext存取值分析
+### ServletContext存取值分析
 
 ![icon](img/img09.png)
 
 
-##细节：
+## 细节：
 
 		<!-- 	
 		A路径： Servlet的路径
@@ -116,7 +116,7 @@
 		</form>
 
 
-###ServletContext 何时创建， 何时销毁?
+### ServletContext 何时创建， 何时销毁?
 
 服务器启动的时候，会为托管的每一个web应用程序，创建一个ServletContext对象
 
