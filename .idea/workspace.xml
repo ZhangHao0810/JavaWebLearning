@@ -6,333 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ecb0f8c-a1ca-4d00-8e1c-4bc24707a925" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CookieDemo02_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CookieDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Request_Redirction_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SessionDemo02_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SessionDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo/CookieDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo/src/CookieDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo/src/CookieUtil/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo/src/GetLoginCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/CookieDemo02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/src/CookieUtil/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/src/servlet/ClearHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/src/servlet/ProductInfoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/abc.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/bc.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/bcc.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/beijingnongshang.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/bh.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/bj.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/ccb.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/cib.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/cmb.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/cmbc.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/dy.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/gf.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/guangda.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/hx.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/icbc.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/nanjing.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/ningbo.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/pingan.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/post.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/sfz.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/sh.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/shpd.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/zheshang.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/bank_img/zx.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/cart.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/059b5245-e3c8-43bf-80fe-700f0e4e68b8-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/0ff130db-0a1b-4b8d-a918-ed9016317009-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/4a51167a-89d5-4710-aca2-7c76edc355b8-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/51afeef5-f6cb-4936-abea-315cfca0edc0-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/54890cf9-91b0-40bc-9f68-51462e9c43a8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/750a9ce8-8c19-444d-b8cc-f3e7e786ec5d-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/93b9e55f-cbae-4c3c-b2f7-2636c7369db7-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/My97DatePicker.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/adidas.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/base64.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/beijirong.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPic13867cc1-935a-4a3a-98f9-edf87ddb1c09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPic372e7faa-3ad0-444d-a89b-a8e9f0d6e929.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPic4ed6edbf-fb3e-49a7-be5e-361b2ce02961.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPic5ab54f67-a479-48fe-a41d-7d34b57036a3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPica5720219-ba48-460a-a084-24d5b314bd03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPica7e5d3dd-5984-4d0f-9851-35cc0987d9b9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPicaa443d05-27b4-4964-958e-c81536f01d04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPicc1e3a29e-17f5-4d9f-a186-b2c5a0b39b88.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPicd0459632-fe4e-4a5d-8373-1a67c9f43ec2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPice7c2e240-4147-4c11-b369-db3765ec3df9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bigPicee0785e3-68e2-4e23-93ef-68904bc2a3c6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/captcha (2).jhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/captcha.jhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/cart.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/common.css.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/common.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/dadonggua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/eifini.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/f37ba36a-181b-4161-a88f-f74c9adb485d-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/f5e39c37-94b2-462e-8e58-8bde3c5f1b8c-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/footer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/g.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/hengyuanxiang.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/i.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/index_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/index_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/index_right.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/index_top.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/j.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/jackjones.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/jsbn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/l.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/lining.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/maoren.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/nike.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/product.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/q.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/bigPic139f030b-d68b-41dd-be6d-b94cc568d3c5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/bigPic19533252-0faa-4e64-8077-6e1908f47739.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/bigPic1ea8f1c9-8b8e-4262-8ca9-690912434692.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/bigPic5f3622b8-028a-4e62-a77f-f41a16d715ed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/footer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/logo1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/r___________renleipic_01/product.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/registImg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/regist_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/semir.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/sentubila.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/septwolves.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/sundance.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/vimly.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/image/yishion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/article.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/cart.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/cart1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/common.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/dialog_overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/error.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/finalbutton.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/index.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/info.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/loading_bar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/loading_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/login.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/loginbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/member.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/message.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/order.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/password.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/product.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/register.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/review.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/images/title2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/bartlesvillecf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/emancipation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/footer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/okwu-athletics.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/okwu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/img/title2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/js/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/login.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/order_info.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/order_list.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/product_info.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/product_list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs10010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs20010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs30010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs40011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs50010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs60010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/cs70010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/duanxue1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/duanxue2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/duanxue3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/duanxue4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/1/nvxie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/155210007679548_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/562d008aN963ce5f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/5632bdf8N789e6659.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/5632c2eeNbc918af0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/90560009093007_y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/c_0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/c_0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/c_0003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/c_0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/c_0005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/c_0006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/c_0007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/dn1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/dn2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/ad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/big01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/middle01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/hao/small09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/news_left.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/products/news_right.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookieDemo02/web/register.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request&amp;Redirction/Request&amp;Redirction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request&amp;Redirction/src/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request&amp;Redirction/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request&amp;Redirction/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request&amp;Redirction/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request&amp;Redirction/web/login_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo/SessionDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo/src/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo/src/Servlet01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo02/SessionDemo02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo02/src/CarServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo02/src/ClearCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo02/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo02/web/car.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SessionDemo02/web/product_list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServletContextDemo/src/DownLoadDemo/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServletContextDemo/src/DownLoadDemo/Servlet.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ecb0f8c-a1ca-4d00-8e1c-4bc24707a925" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -348,44 +22,7 @@
     <favorites_list name="JavaWeb基础" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="car.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SessionDemo02/web/car.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClearCar.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SessionDemo02/src/ClearCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SessionDemo02/src/CarServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="14" selection-start-line="14" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SessionDemo02/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -862,12 +499,41 @@
       <workItem from="1571827507480" duration="1953000" />
       <workItem from="1571830115550" duration="4285000" />
       <workItem from="1571839044877" duration="1930000" />
-      <workItem from="1571876116503" duration="27857000" />
+      <workItem from="1571876116503" duration="28214000" />
     </task>
+    <task id="LOCAL-00001" summary="Session">
+      <created>1571905503661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571905503661</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Response,Request,ServletContext">
+      <created>1571905524073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571905524073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cookie">
+      <created>1571905633697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571905633697</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".">
+      <created>1571905663599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571905663599</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78338000" />
+    <option name="totallyTimeSpent" value="78695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -924,23 +590,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="结束ServletContext和RequestResponse的学习." />
+    <MESSAGE value="Session" />
     <MESSAGE value="Response,Request,ServletContext" />
-    <option name="LAST_COMMIT_MESSAGE" value="Response,Request,ServletContext" />
+    <MESSAGE value="Cookie" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ServletContextDemo/src/ServletgetProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="831">
@@ -1290,6 +951,9 @@
           <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookieDemo02/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
