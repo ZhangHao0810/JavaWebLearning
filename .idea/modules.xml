@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ajax/Ajax.iml" filepath="$PROJECT_DIR$/Ajax/Ajax.iml" />
       <module fileurl="file://$PROJECT_DIR$/CookieDemo/CookieDemo.iml" filepath="$PROJECT_DIR$/CookieDemo/CookieDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CookieDemo02/CookieDemo02.iml" filepath="$PROJECT_DIR$/CookieDemo02/CookieDemo02.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloServlet/HelloServlet.iml" filepath="$PROJECT_DIR$/HelloServlet/HelloServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JspDemo/JspDemo.iml" filepath="$PROJECT_DIR$/JspDemo/JspDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listener/Listener.iml" filepath="$PROJECT_DIR$/Listener/Listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/Request&amp;Redirction/Request&amp;Redirction.iml" filepath="$PROJECT_DIR$/Request&amp;Redirction/Request&amp;Redirction.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServletConfig01/ServletConfig01.iml" filepath="$PROJECT_DIR$/ServletConfig01/ServletConfig01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServletContextDemo/ServletContextDemo.iml" filepath="$PROJECT_DIR$/ServletContextDemo/ServletContextDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SessionDemo/SessionDemo.iml" filepath="$PROJECT_DIR$/SessionDemo/SessionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SessionDemo02/SessionDemo02.iml" filepath="$PROJECT_DIR$/SessionDemo02/SessionDemo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StuManagerSystem/StuManagerSystem.iml" filepath="$PROJECT_DIR$/StuManagerSystem/StuManagerSystem.iml" />
     </modules>
   </component>
 </project>
