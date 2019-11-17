@@ -6,40 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ecb0f8c-a1ca-4d00-8e1c-4bc24707a925" name="Default" comment="Ajax 的使用,页面向服务器发送get/post请求,校验用户名信息,返回响应在对话框旁边.">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Ajax_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JspDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/StuManagerSystem_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JspDemo/JspDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JspDemo/img/img01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JspDemo/img/img02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JspDemo/web/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JspDemo/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JspDemo/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JspDemo/笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listener/Listener.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listener/src/test/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listener/src/test/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/StuManagerSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/img/img01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/img/img02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/dao/StuDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/dao/impl/StuDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/src/util/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/web/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/web/stu_list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StuManagerSystem/笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7ecb0f8c-a1ca-4d00-8e1c-4bc24707a925" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Request&amp;Redirction/src/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Request&amp;Redirction/src/LoginServlet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +24,7 @@
     <favorites_list name="JavaWeb基础" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="A.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Listener/src/test/A.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/Listener/src/test/B.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding>
                 <element signature="e#131#132#0" expanded="true" />
                 <element signature="e#178#179#0" expanded="true" />
@@ -183,8 +151,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="307" />
-    <option name="y" value="376" />
+    <option name="x" value="27" />
     <option name="width" value="960" />
     <option name="height" value="1100" />
   </component>
@@ -196,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -252,6 +218,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -567,6 +534,7 @@
       <workItem from="1572083724489" duration="189000" />
       <workItem from="1572260344378" duration="3495000" />
       <workItem from="1572351369696" duration="1285000" />
+      <workItem from="1573269417721" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="Session">
       <created>1571905503661</created>
@@ -603,11 +571,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572264016925</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1573269517388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573269517388</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108672000" />
+    <option name="totallyTimeSpent" value="108879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -619,11 +594,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="27" y="0" width="960" height="1100" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.19106145" side_tool="true" weight="0.36188436" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="6" sideWeight="0.19106145" side_tool="true" visible="true" weight="0.34434968" />
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.877095" weight="0.29753914" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32947975" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
@@ -644,7 +618,7 @@
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" auto_hide="true" x="43" y="353" width="1384" height="491" id="Run" order="14" sideWeight="0.80893856" weight="0.401566" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32729805" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8349057" weight="0.43444446" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8349057" visible="true" weight="0.90555555" />
       <window_info id="Web" order="6" sideWeight="0.16509435" side_tool="true" weight="0.40117648" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="7" sideWeight="0.5285481" side_tool="true" weight="0.23627168" />
@@ -669,9 +643,9 @@
     <MESSAGE value="Session" />
     <MESSAGE value="Response,Request,ServletContext" />
     <MESSAGE value="Cookie" />
-    <MESSAGE value="." />
     <MESSAGE value="Ajax 的使用,页面向服务器发送get/post请求,校验用户名信息,返回响应在对话框旁边." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajax 的使用,页面向服务器发送get/post请求,校验用户名信息,返回响应在对话框旁边." />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1001,7 +975,7 @@
     <entry file="file://$PROJECT_DIR$/Listener/src/test/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding>
             <element signature="e#131#132#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
